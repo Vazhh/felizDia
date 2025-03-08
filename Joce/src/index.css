@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.cursor-heart {
+    cursor: url('/corazon3.png') 10 50, auto;
+}

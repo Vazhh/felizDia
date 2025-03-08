@@ -34,7 +34,7 @@ const Card = () => {
 
         {/* Botón con efecto */}
         <motion.button
-          className="hover:cursor-pointer mt-6 px-6 py-3 bg-pink-500 text-white font-bold rounded-lg shadow-lg hover:bg-pink-600 transition-all duration-300"
+          className="cursor-heart mt-6 px-6 py-3 bg-pink-500 text-white font-bold rounded-lg shadow-lg hover:bg-pink-600 transition-all duration-300"
           onClick={handleClick}
           whileTap={{ scale: 0.9 }}
         >
