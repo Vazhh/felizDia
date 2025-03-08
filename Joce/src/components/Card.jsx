@@ -12,7 +12,7 @@ const Card = () => {
   return (
     <div className="flex justify-center items-center min-h-screen bg-gradient-to-r from-pink-500 to-purple-600">
       <motion.div
-        className="relative bg-white p-6 rounded-3xl shadow-2xl w-96 text-center overflow-hidden"
+        className="relative bg-white p-6 rounded-3xl shadow-2xl w-[440px] text-center overflow-hidden"
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
         transition={{ duration: 0.5, type: "spring" }}
