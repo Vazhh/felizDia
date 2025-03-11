@@ -29,7 +29,7 @@ const Card = () => {
         {/* Contenido de la tarjeta */}
         <h1 className="text-2xl font-bold text-pink-700">🌸 Feliz Día de la Mujer 🌸</h1>
         <p className="mt-4 text-gray-900 font-semibold">
-          Joce, gracias por tu fortaleza, amistad y dedicación. Hoy te deseo un gran día y siempre recuerda lo increíble que eres. 💖
+          Joshuary, gracias por tu fortaleza, amistad y dedicación. Hoy te deseo un gran día y siempre recuerda lo increíble que eres. 💖
         </p>
 
         {/* Botón con efecto */}
