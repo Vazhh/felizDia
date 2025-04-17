@@ -1,15 +1,10 @@
-import Card from "./components/Card"
-import SkyStars from "./components/SkyStars"
+import { RouterProvider } from "react-router-dom"
+import router from "./router"
 
-function App() {
- 
-
+export default function App() {
   return (
-    <>
-      <SkyStars/>
-      <Card/>
-    </>
+    <div className="flex justify-center items-center h-screen w-screen">
+     <RouterProvider router={router}/> 
+    </div>
   )
 }
-
-export default App
