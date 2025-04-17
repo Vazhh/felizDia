@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
+import alrevez from "/alrevez.png";
 
 const Letter = () => {
 //   const [content, setContent] = useState("");
@@ -170,6 +171,8 @@ Con cariño, con verdad y con esperanza. 🌷
           
         </div>
       )}
+
+      <img src={alrevez} className="absolute w-30 inset-0 flex self-end justify-self-start mb-10 ms-6 cursor-heart animate-beat rotate-225" alt="" />
       
     </div>
   );
