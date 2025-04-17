@@ -176,7 +176,7 @@ Con cariño, con verdad y con esperanza. 🌷
       <Anchor to={"/"}>
         <img
           src={alrevez}
-          className="absolute w-30 inset-0 flex self-end justify-self-start mb-10 ms-6 cursor-heart animate-beat rotate-225"
+          className="absolute w-32 inset-0 flex self-end justify-self-start mb-10 ms-6 cursor-heart animate-beat rotate-225"
           alt=""
         />
         
