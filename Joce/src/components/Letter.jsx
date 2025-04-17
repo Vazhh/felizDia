@@ -156,7 +156,7 @@ Con cariño, con verdad y con esperanza. 🌷
           </h1>
           <button
             onClick={iniciarCarta}
-            className="cursor-heart bg-rose-500 hover:bg-rose-600 text-white px-8 py-4 rounded-full text-xl shadow-lg transition-all duration-300"
+            className="cursor-heart animate-beat rotate-45 bg-rose-500 hover:bg-rose-600 text-white px-8 py-4 rounded-full text-xl shadow-lg transition-all duration-300"
           >
             Iniciar Carta
           </button>
